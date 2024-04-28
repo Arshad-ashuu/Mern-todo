@@ -40,7 +40,6 @@ POST : method to add Todo to database from frontend
 
 DELETE : to delete the selected todo from frontend using its id to delete the todo from database
 
-## 
 
 
 
